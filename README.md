@@ -1,16 +1,27 @@
-### Hi there 👋
+## Olá! Eu sou Samuel de Oliveira
+<p>
+  🖥 Sou QA e realizo automação com os seguintes frameworks: Cypress, TestComplete e Postman 
+</p>
+<p>
+  🖥 Estou sempre em busca de novos conhecimentos. 'O conhecimento é em si mesmo um poder.'
+</p>
+<div>
+    <img height = '180em' src='https://github-readme-stats.vercel.app/api?username=Samuelolie&show_icons=true&theme=dark'>
+    <img height = '180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelolie&layout=compact'>
+</div>
 
-<!--
-**Samuelolie/Samuelolie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style = 'display: inline_block'><br>
+  <img align='center' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
+  <img align='center' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg'>
+  <img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>
+  <img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  <img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
+  <img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />   
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+           
+          
+            
+          

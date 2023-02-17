@@ -7,7 +7,7 @@
 </p>
 <div>
     <img height = '180em' src='https://github-readme-stats.vercel.app/api?username=Samuelolie&show_icons=true&theme=dark'>
-    <img height = '180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelolie&layout=compact'>
+    <img height = '180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelolie&layout=compact&theme=dark'>
 </div>
 
 <div style = 'display: inline_block'><br>

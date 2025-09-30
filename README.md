@@ -1,6 +1,6 @@
 ## Olá! Eu sou Samuel de Oliveira
 <p>
-  🖥 Sou QA e realizo automação com os seguintes frameworks: Cypress, TestComplete e Postman 
+  🖥 Sou QA e realizo automação com os seguintes frameworks: Cypress, TestComplete, Selenium, Playwright e Postman 
 </p>
 <p>
   🖥 Estou sempre em busca de novos conhecimentos. 'O conhecimento é em si mesmo um poder.'
